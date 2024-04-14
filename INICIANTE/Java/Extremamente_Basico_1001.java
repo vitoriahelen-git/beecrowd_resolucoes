@@ -17,15 +17,14 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class Extremamente_Basico_1001 {
-    public static void main(String[] args){
-        Scanner ler = new Scanner(System.in); 
-
+    public static void main(String[] args) throws IOException{
+       try (Scanner ler = new Scanner(System.in)){
         int A, B, X; 
         A = ler.nextInt(); 
         B = ler.nextInt(); 
 
         X = A + B; 
         System.out.println("X = "+ X);
-    }
-    
+       } 
+    }    
 }
