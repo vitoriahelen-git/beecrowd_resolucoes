@@ -16,7 +16,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Extremamente_Basico_1001 {
+public class BC_1001_Extremamente_Basico {
     public static void main(String[] args) throws IOException{
        try (Scanner ler = new Scanner(System.in)){
         int A, B, X; 

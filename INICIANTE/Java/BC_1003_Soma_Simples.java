@@ -15,7 +15,7 @@
 import java.io.IOException;
 import java.util.Scanner; 
 
-public class Soma_Simples_1003 {
+public class BC_1003_Soma_Simples {
     public static void main(String[] args) throws IOException{
         try (Scanner lerTeclado = new Scanner(System.in)) {
             int A, B, SOMA; 

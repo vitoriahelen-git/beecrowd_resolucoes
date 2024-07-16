@@ -11,7 +11,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Diferenca_1007 {
+public class BC_1007_Diferenca {
     public static void main(String[] args) throws IOException {
         try(Scanner lerTeclado = new Scanner(System.in)){
             int A, B, C, D, DIFERENCA; 

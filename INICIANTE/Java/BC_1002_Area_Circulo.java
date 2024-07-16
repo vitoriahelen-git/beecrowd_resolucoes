@@ -18,7 +18,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Area_Circulo_1002 {
+public class BC_1002_Area_Circulo {
     public static void main(String[] args) throws IOException{
         
         try (Scanner valor = new Scanner(System.in)) {

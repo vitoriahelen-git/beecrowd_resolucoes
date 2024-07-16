@@ -13,7 +13,7 @@
 import java.io.IOException;
 import java.util.Scanner; 
 
-public class Produto_Simples_1004 {
+public class BC_1004_Produto_Simples {
     public static void main(String[] args) throws IOException {
         try (Scanner lerTeclado = new Scanner(System.in)){
             int VALOR1, VALOR2, PROD; 

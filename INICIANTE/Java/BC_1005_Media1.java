@@ -15,7 +15,7 @@
 import java.io.IOException;
 import java.util.Scanner; 
 
-public class Media1_1005 {
+public class BC_1005_Media1 {
     public static void main(String[] args) throws IOException{
         try(Scanner lerTeclado = new Scanner(System.in)){
             double A, B, MEDIA; 

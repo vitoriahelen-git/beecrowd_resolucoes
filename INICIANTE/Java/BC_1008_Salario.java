@@ -14,7 +14,7 @@
 import java.io.IOException;
 import java.util.Scanner; 
 
-public class Salario_1008 {
+public class BC_1008_Salario {
     public static void main(String[] args) throws IOException{
         try(Scanner lerTeclado = new Scanner(System.in)){
             int numero, QtHoras; 
